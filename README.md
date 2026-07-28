@@ -18,5 +18,4 @@ A Python-based fitness tracker application with BMI calculation, workout trackin
 - Mobile app integration
 - AI-based fitness recommendations
 
-## Author
-Udhay Nithi
+
